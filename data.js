@@ -64,5 +64,9 @@ Usuario.create({
     nome_usu: "Kevin Fernandes",
     idade_usu: 19
 })
+Usuario.create({
+    nome_usu: "Que parapo",
+    idade_usu: 19
+})
 
 Usuario.sync()
